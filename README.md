@@ -11,7 +11,7 @@ A four-page Power BI report built as a school project in the BI Analyst program 
 - Power BI Desktop
 - Data modelling (star schema, date table, currency table)
 - Power Query for data preparation
-- DAX measures (YTD, R12, turnover, margin, currency conversion)
+- DAX measures (YTD, R12, turnover, margin, currency conversion etc.)
 - Report design: custom navigation, tabbed visuals via bookmarks, consistent dark theme
 
 ---
