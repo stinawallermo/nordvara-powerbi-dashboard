@@ -1,4 +1,4 @@
-# Nordvara – Sales, HR, Stock & Finance Dashboard (Power BI)
+# Sales, HR, Stock & Finance Dashboard (Power BI)
 
 A four-page Power BI report built as a school project in the BI Analyst program at Nackademin. The report gives a company-wide overview of **sales, workforce, inventory and financial performance** for the fictional company *Nordvara*, with navigation between pages and interactive filters.
 
