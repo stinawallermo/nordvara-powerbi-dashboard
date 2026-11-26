@@ -111,14 +111,14 @@ A four-page Power BI report built as a school project in the BI Analyst program 
 - **Consistent layout:** the same navigation menu, filter placement and color palette on every page
 - **Tabs instead of clutter:** related views (e.g. Outcome/YTD, By Title/By Department) share the same space
 - **Drill-down** where users need detail, high-level KPIs where they need an overview
-- **Currency handling:** all values converted to USD, with a currency selector
+- **Currency handling:** all values converted from local sale currency to any chosen currency, with a currency selector
 
 ---
 
 ## What I learned
 
 - Building a complete multi-page report from raw requirements
-- Writing time-intelligence measures (YTD, rolling 12 months)
+- Writing measures in DAX
 - Modelling data from several business areas in one report
 - Designing for readability: filters, KPIs and visuals that are easy to use
 
